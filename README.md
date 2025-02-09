@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Food ordering website](https://github.com/Sharmila439/EpicFoodie)
 
-- 🌱 I’m currently learning **Angular,Node,Java,**
+- 🌱 I’m currently learning **Angular,Node,Python,**
 
 - 📫 How to reach me **sharmilasci04@gmail.com**
 
